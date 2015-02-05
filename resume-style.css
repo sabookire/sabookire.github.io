@@ -7,3 +7,12 @@ font-size:
 font-family: ;
 background-color: 
 }# sabookire.github.io
+
+h1, #contact {
+	color: black;
+	text-align: center;
+}
+
+#grad {
+	text-align: right;
+}
