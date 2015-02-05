@@ -3,18 +3,41 @@
 
 body {
 text-align: center;
-color: ;
+color: black;
 font-size: 
-font-family: ;
+font-family: Helvetica;
 background-color: 
 }
 
-h1, #contact {
+h1 {
 	color: black;
 	text-align: center;
+	font-family: Helvetica;
+	font-style: bold;
+	font-size: 42px;
+	}
+h2 {
+	color: black;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: bold;
+}
+h3 {
+	color: black;
+	text-align: right;
+	font-family: Helvetica;
+	font-style: bold;
+}
+p {
+	text-align: right;
+	font-family: Helvetica;
 }
 
-#grad {
-	text-align: right;
+#contact {
+	color: black;
+	text-align: center;
+	font-style: italic;
 }
+
+
 </css>
