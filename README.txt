@@ -6,7 +6,7 @@ biography, and a home page accessible at http://sabookire.github.io
 Correctly implemented aspects:
 
 Collaorators:
+n/a
 
 Hours spent:
-
-# sabookire.github.io
+6
