@@ -28,7 +28,8 @@ h3 {
 	font-family: Helvetica;
 	font-style: bold;
 }
-p {
+h4, p, li {
+	color: black;
 	text-align: right;
 	font-family: Helvetica;
 }
@@ -38,6 +39,10 @@ p {
 	text-align: center;
 	font-style: italic;
 }
-
+#timeframe {
+	color: black;
+	text-align: right;
+	font-style: italic;
+}
 
 </css>
