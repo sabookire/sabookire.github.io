@@ -1,6 +1,5 @@
 <!DOCTYPE css>
 <css>
-
 body {
 text-align: center;
 color: black;
@@ -28,10 +27,18 @@ h3 {
 	font-family: Helvetica;
 	font-style: bold;
 }
-h4, p, li {
+h4, p {
 	color: black;
 	text-align: right;
 	font-family: Helvetica;
+}
+
+ul {
+	color: black;
+	text-align: right;
+	font-family: Helvetica;
+	list-style-type: disc;
+	list-style-position: outside;
 }
 
 #contact {
