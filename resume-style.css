@@ -39,7 +39,7 @@ h4, p, li {
 	text-align: center;
 	font-style: italic;
 }
-#timeframe {
+.timeframe {
 	color: black;
 	text-align: right;
 	font-style: italic;
