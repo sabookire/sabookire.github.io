@@ -1,9 +1,10 @@
-<style>
+<!DOCTYPE css>
+<css>
+body {
+	background-color: #FFFFCC;
+}
 h1, p {
 	text-align: center;
 	font-family: georgia;
 }
-body {
-	background-color: #FFFFCC;
-}
-</style>
+</css>
