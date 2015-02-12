@@ -9,6 +9,7 @@ h1 {
 h2 {
 	font-family: helvetica;
 	text-align: center;
+	background-color: #99CCFF;
 }
 IMG.displayed {
 	display: block;
