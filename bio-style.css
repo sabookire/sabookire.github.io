@@ -2,11 +2,13 @@ body {
 	background-color: #99CCFF;
 }
 h1, p {
+	color: black;
 	font-family: Helvetica;
 	text-align: center;
 }
 #links {
 	color: black
 	font-family: helvetica;
+	font-style: bold;
 	text-align: center;
 }
