@@ -3,11 +3,11 @@ body {
 }
 h1 { 
 	color: purple;
-	font-family: Georgia;
+	font-family: helvetica;
 	text-align: center;
 }
 h2 {
-	font-family: georgia;
+	font-family: helvetica;
 	text-align: center;
 }
 IMG.displayed {
