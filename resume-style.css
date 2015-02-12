@@ -1,7 +1,6 @@
 body {
 text-align: center;
 color: black;
-font-size: 
 font-family: Helvetica;
 background-color: #F8F8F8;
 }
@@ -36,7 +35,7 @@ ul {
 	list-style-position: inside;
 }
 #links {
-	color: black
+	color: black;
 	font-family: helvetica;
 	text-align: center;
 }
