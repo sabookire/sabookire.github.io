@@ -9,21 +9,18 @@ h1 {
 	color: black;
 	text-align: center;
 	font-family: Helvetica;
-	font-style: bold;
 	font-size: 42px;
 	}
 h2 {
 	color: black;
 	text-align: left;
 	font-family: Helvetica;
-	font-style: bold;
 	background-color: #99CCFF;
 }
 h3 {
 	color: black;
 	text-align: right;
 	font-family: Helvetica;
-	font-style: bold;
 }
 h4, p {
 	color: black;
